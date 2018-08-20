@@ -21,7 +21,7 @@ public class praktek1 {
         System.out.println("total lebih dari 200000 = diskon 20%");
         System.out.println("total lebih dari 500000 = diskon 50%");
         
-        System.out.println("==================================");
+        System.out.println("======================================");
         
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nama Barang: ");
